@@ -1,0 +1,1 @@
+##functions which are written in common way that is used in entire application
